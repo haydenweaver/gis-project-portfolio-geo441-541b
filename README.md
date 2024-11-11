@@ -14,3 +14,7 @@ Hayden Weaver
 ## Map Coordinate Basics
 
 - [Understanding map coordinates](https://github.com/haydenweaver/gis-project-portfolio-geo441-541b/blob/main/map-coordinate-basics/understanding-coordinates.ipynb)
+
+## Spatial Analysis 
+
+- [Spatial Analysis](https://github.com/haydenweaver/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/Copy_of_week_10_assignment_template.ipynb)
