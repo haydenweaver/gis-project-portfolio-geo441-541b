@@ -18,4 +18,4 @@ Hayden Weaver
 ## Spatial Analysis 
 
 - [Spatial Analysis](https://github.com/haydenweaver/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/Copy_of_week_10_assignment_template.ipynb)
-- [Spatial Analysis](https://github.com/haydenweaver/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/Copy_of_week_12_assignment_template.ipynb)
+- [Group Project Ages 18-24](https://github.com/haydenweaver/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/Copy_of_week_12_assignment_template.ipynb)
