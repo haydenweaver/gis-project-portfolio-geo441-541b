@@ -15,10 +15,10 @@ Hayden Weaver
 
 - [Understanding map coordinates](https://github.com/haydenweaver/gis-project-portfolio-geo441-541b/blob/main/map-coordinate-basics/understanding-coordinates.ipynb)
 
-## Spatial Analysis for Raster Data
-
-- [Practice Vector Spatial Analysis](https://github.com/haydenweaver/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/Copy_of_week_10_assignment_template.ipynb)
-- [Census Tracking](https://github.com/haydenweaver/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/census-track-mapping.ipynb)
-
 ## Spatial Analysis for Vector Data
-- [Buffer Analysis](https://github.com/haydenweaver/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/mapping-cholera-outbreaks-pumps-london.ipynb)
+
+- [Buffer Analysis](https://github.com/haydenweaver/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis-vector/mapping-cholera-outbreaks-pumps-london.ipynb)
+- [Census Data](https://github.com/haydenweaver/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis-vector/census-track-mapping.ipynb)
+
+## Spatial Analysis for Raster Data
+- [Raster Practice](https://github.com/haydenweaver/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis-raster/raster-data-practice.ipynb)
