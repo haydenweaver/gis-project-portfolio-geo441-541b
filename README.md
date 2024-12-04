@@ -25,3 +25,6 @@ Hayden Weaver
 
 ## Working With Census Tract Data 
 - [Census Data](https://github.com/haydenweaver/gis-project-portfolio-geo441-541b/blob/main/Census-data/census-track-mapping.ipynb)
+
+## Build Selections and Queries 
+- [Query Practice](https://github.com/haydenweaver/gis-project-portfolio-geo441-541b/blob/main/query-data/query-practice.ipynb)
