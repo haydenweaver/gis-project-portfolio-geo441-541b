@@ -18,7 +18,6 @@ Hayden Weaver
 ## Spatial Analysis for Vector Data
 
 - [Buffer Analysis](https://github.com/haydenweaver/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis-vector/mapping-cholera-outbreaks-pumps-london.ipynb)
-- [Census Data](https://github.com/haydenweaver/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis-vector/census-track-mapping.ipynb)
 
 ## Spatial Analysis for Raster Data
 - [Raster Practice](https://github.com/haydenweaver/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis-raster/raster-data-practice.ipynb)
