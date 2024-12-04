@@ -15,7 +15,10 @@ Hayden Weaver
 
 - [Understanding map coordinates](https://github.com/haydenweaver/gis-project-portfolio-geo441-541b/blob/main/map-coordinate-basics/understanding-coordinates.ipynb)
 
-## Spatial Analysis 
+## Spatial Analysis for Vector Data
 
-- [Spatial Analysis](https://github.com/haydenweaver/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/Copy_of_week_10_assignment_template.ipynb)
-- [Group Project Ages 18-24](https://github.com/haydenweaver/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/Copy_of_week_12_assignment_template.ipynb)
+- [Practice Vector Spatial Analysis](https://github.com/haydenweaver/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/Copy_of_week_10_assignment_template.ipynb)
+- [Census Tracking](https://github.com/haydenweaver/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/census-track-mapping.ipynb)
+
+## Spatial Analysis for Raster Data
+- [Buffer Analysis](https://github.com/haydenweaver/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/mapping-cholera-outbreaks-pumps-london.ipynb)
