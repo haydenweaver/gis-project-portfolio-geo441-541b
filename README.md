@@ -22,3 +22,6 @@ Hayden Weaver
 
 ## Spatial Analysis for Raster Data
 - [Raster Practice](https://github.com/haydenweaver/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis-raster/raster-data-practice.ipynb)
+
+## Working With Census Tract Data 
+- [Census Data](https://github.com/haydenweaver/gis-project-portfolio-geo441-541b/blob/main/Census-data/census-track-mapping.ipynb)
